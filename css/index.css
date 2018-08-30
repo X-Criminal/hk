@@ -1,0 +1,9 @@
+#mainImg >div{
+    width: 100%;
+}
+#mainImg #metaslider_container_20{
+    width: 100%;
+}
+#mainImg  .nivoSlider img{
+    position: relative;
+}
