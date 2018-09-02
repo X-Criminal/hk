@@ -517,11 +517,6 @@ a{
 a:hover, a:active{
     color:#927a49;
 }
-
-#header .bg{
-    background:#4263DD;
-}
-
 #header h1,.description{
 }
 
@@ -557,7 +552,7 @@ a:hover, a:active{
     nav#mainNav ul li.current-menu-parent a
     {
 
-        background:#4263DD;
+        background:#ff7700;
         color:#ffffff;
 
         text-shadow: none;
@@ -591,15 +586,15 @@ a:hover, a:active{
     nav#mainNav ul li.current-menu-item li:last-child a:hover,
     nav#mainNav ul li li li a:hover{
 
-        background:#4263DD;
+        background:#ff7700;
         color:#ffffff;
     }
     nav#mainNav ul li.current-menu-item li li a:hover{
-        background:#4263DD;
+        background:#ff7700;
         color:#ffffff;
     }
     nav#mainNav ul li.current-menu-ancestor li.current-menu-item a{
-        background:#4263DD;
+        background:#ff7700;
         color:#ffffff;}
 
 }
@@ -613,10 +608,10 @@ a:hover, a:active{
 
     }
     nav#mainNav a.menu {
-        background:  no-repeat 1em 10px,#4263DD;
+        background:  no-repeat 1em 10px,#e2b575;
         color:#ffffff;border:1px solid #ffffff;}
     nav#mainNav a.menuOpen {
-        background:  no-repeat 1em 10px,#4263DD;
+        background:  no-repeat 1em 10px,#e2b575;
         color:#ffffff;
     }
 
@@ -627,38 +622,38 @@ a:hover, a:active{
 
     nav#mainNav ul li.current-menu-item a,
     nav#mainNav ul li a:hover{
-        background:#4263DD;
+        background:#e2b575;
         color:#ffffff;
     }
     nav#mainNav ul li li.current-menu-item a,
     nav#mainNav ul li li a:hover,
     nav#mainNav ul li.current-menu-item li a:hover{
-        background: no-repeat 30px 50%,#4263DD;
+        background: no-repeat 30px 50%,#e2b575;
         color:#ffffff;
     }
     nav#mainNav ul li li li.current-menu-item a,
     nav#mainNav ul li li li a:hover,
     nav#mainNav ul li.current-menu-item li li a:hover{
-        background:  no-repeat 45px 50%,#4263DD;
+        background:  no-repeat 45px 50%,#e2b575;
         color:#ffffff;
     }
 
     nav#mainNav ul li li li:last-child a:hover,
     nav#mainNav ul li li li:last-child.current-menu-item a,
     nav#mainNav ul li.current-menu-item li li:last-child a:hover{
-        background: no-repeat 45px 50%,#4263DD;
+        background: no-repeat 45px 50%,#e2b575;
         color:#ffffff;
     }
     nav#mainNav ul li li:last-child a:hover,
     nav#mainNav ul li li:last-child.current-menu-item a,
     nav#mainNav ul li.current-menu-item li:last-child a:hover{
-        background:no-repeat 30px 50%,#4263DD;
+        background:no-repeat 30px 50%,#e2b575;
         color:#ffffff;
     }
     nav#mainNav ul li li:last-child li.current-menu-item a,
     nav#mainNav ul li li:last-child li a:hover,
     nav#mainNav ul li.current-menu-item li:last-child li a:hover{
-        background: no-repeat 45px 50%,#4263DD;
+        background: no-repeat 45px 50%,#e2b575;
         color:#ffffff;
     }
 }
@@ -672,11 +667,11 @@ a:hover, a:active{
 
 }
 h1.title{
-    color:#ffffff;
+    color:#fff;
     text-shadow: none;
 
 
-    border-bottom: 3px solid #4263DD;
+    border-bottom: 3px solid #ff7700;
 
 
 }
@@ -694,15 +689,15 @@ h1.title{
     color:#ffffff;}
 
 h2.title{
-    border-bottom: 3px solid #4263DD;}
+    border-bottom: 3px solid #e2b575;}
 #pageLinks{
-    color:#4263DD;}
+    color:#e2b575;}
 .post h1{
     color:#ffffff;
     text-shadow: none;
 
 
-    border-bottom: 3px solid #4263DD;
+    border-bottom: 3px solid #e2b575;
 
 
 }
@@ -711,7 +706,7 @@ section.widget h2{
     text-shadow: none;
 
 
-    border-bottom: 3px solid #4263DD;
+    border-bottom: 3px solid #e2b575;
 
 
 }
@@ -722,7 +717,7 @@ h2.title, .post h2, .post2b h2, .post4b h2{
 
 
     background: inherit;
-    border-bottom: 2px solid #4263DD;
+    border-bottom: 2px solid #e2b575;
 
 
     border-left: none;
@@ -733,9 +728,9 @@ h2.title, .post h2, .post2b h2, .post4b h2{
 .post h2 a{
     color:#151515;}
 .post h3{
-    border-top: 1px solid #4263DD;border-bottom: 1px solid #4263DD;}
+    border-top: 1px solid #e2b575;border-bottom: 1px solid #e2b575;}
 .post h4{
-    border-top: 1px dotted #4263DD;border-bottom: 1px dotted #4263DD;border-left: 4px solid #4263DD;}
+    border-top: 1px dotted #e2b575;border-bottom: 1px dotted #e2b575;border-left: 4px solid #e2b575;}
 .newsTitle{
     color:#ffffff;
 }
@@ -743,12 +738,12 @@ h2.title, .post h2, .post2b h2, .post4b h2{
     color:#ffffff;
 }
 h1.title{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, #284dd7));
-    background:-webkit-linear-gradient(#4263DD, #284dd7);
-    background:-moz-linear-gradient(#4263DD, #284dd7);
-    background:-o-linear-gradient(#4263DD, #284dd7);
-    background:-ms-linear-gradient(#4263DD, #284dd7);
-    background:linear-gradient(#4263DD, #284dd7);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
+    background:-webkit-linear-gradient(#e2b575, #ff7700);
+    background:-moz-linear-gradient(#e2b575,#ff7700);
+    background:-o-linear-gradient(#e2b575, #ff7700);
+    background:-ms-linear-gradient(#e2b575, #ff7700);
+    background:linear-gradient(#e2b575,#ff7700);
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -758,12 +753,12 @@ h1.title span{
     padding-left:15px;
 }
 .post h1{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, #284dd7));
-    background:-webkit-linear-gradient(#4263DD, #284dd7);
-    background:-moz-linear-gradient(#4263DD, #284dd7);
-    background:-o-linear-gradient(#4263DD, #284dd7);
-    background:-ms-linear-gradient(#4263DD, #284dd7);
-    background:linear-gradient(#4263DD, #284dd7);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
+    background:-webkit-linear-gradient(#e2b575, #ff7700);
+    background:-moz-linear-gradient(#e2b575, #ff7700);
+    background:-o-linear-gradient(#e2b575, #ff7700);
+    background:-ms-linear-gradient(#e2b575, #ff7700);
+    background:linear-gradient(#e2b575, #ff7700);
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -773,12 +768,12 @@ h1.title span{
     padding-left:15px;
 }
 section.widget h2{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, #284dd7));
-    background:-webkit-linear-gradient(#4263DD, #284dd7);
-    background:-moz-linear-gradient(#4263DD, #284dd7);
-    background:-o-linear-gradient(#4263DD, #284dd7);
-    background:-ms-linear-gradient(#4263DD, #284dd7);
-    background:linear-gradient(#4263DD, #284dd7);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
+    background:-webkit-linear-gradient(#e2b575, #ff7700);
+    background:-moz-linear-gradient(#e2b575, #ff7700);
+    background:-o-linear-gradient(#e2b575, #ff7700);
+    background:-ms-linear-gradient(#e2b575, #ff7700);
+    background:linear-gradient(#e2b575, #ff7700);
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -788,12 +783,12 @@ section.widget h2 span{
     padding-left:15px;
 }
 .newsTitle{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, #284dd7));
-    background:-webkit-linear-gradient(#4263DD, #284dd7);
-    background:-moz-linear-gradient(#4263DD, #284dd7);
-    background:-o-linear-gradient(#4263DD, #284dd7);
-    background:-ms-linear-gradient(#4263DD, #284dd7);
-    background:linear-gradient(#4263DD, #284dd7);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
+    background:-webkit-linear-gradient(#e2b575, #ff7700);
+    background:-moz-linear-gradient(#e2b575, #ff7700);
+    background:-o-linear-gradient(#e2b575, #ff7700);
+    background:-ms-linear-gradient(#e2b575, #ff7700);
+    background:linear-gradient(#e2b575, #ff7700);
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -868,7 +863,7 @@ h2.title span{
 .post table th,
 .post table td
 {
-    border: 1px solid #4263DD;}
+    border: 1px solid #e2b575;}
 .post table th {
     color: #151515;background-color: #d9d9d9;}
 .post table td {
@@ -912,7 +907,7 @@ section.widget li {
     border-bottom: 1px dotted #ffffff;}
 
 #footer{
-    background:#4263DD;
+    background:#e2b575;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -923,4 +918,13 @@ section.widget li {
     color:#ffffff;}
 #copyright{
     color:#ffffff;
+}
+.postlist .time{
+    background-color: red;
+}
+#header {
+    background:#ff7700;
+}
+.index{
+    width: 100% !important;
 }

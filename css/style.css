@@ -1305,11 +1305,6 @@ span.wpcf7-list-item-label {
 .wpcf7-date {
     width: 50% !important;
 }
-
-.cpd li {
-    font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", sans-serif;
-}
-
 .gallery-columns-1 .gallery-item {
     width: 95%;
 }
@@ -1359,6 +1354,9 @@ span.wpcf7-list-item-label {
 .clearfix {
     min-height: 1px;
 }
+nav#mainNav{
+     width: auto;
+ }
 
 .post_img img {
     float: left;
@@ -2642,4 +2640,29 @@ li .post4b_contents {
         max-width:100% !important;
         height:auto;
     }
+}
+#header .logo{
+    width: 200px;
+}
+#header .logo a{
+    width: 100%;
+}
+#header .logo a img{
+    width: 100%;
+}
+
+#mainNav{
+    float: right;
+}
+#mainNav .inner{
+    width: auto;
+}
+.clear-fix::after,
+.clear-fix::before {
+    content: ".";
+    line-height: 0;
+    height: 0;
+    display: block;
+    visibility: hidden;
+    clear: both;
 }
