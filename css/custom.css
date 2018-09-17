@@ -552,7 +552,7 @@ a:hover, a:active{
     nav#mainNav ul li.current-menu-parent a
     {
 
-        background:#ff7700;
+        background:rgb(75,104,195);
         color:#ffffff;
 
         text-shadow: none;
@@ -586,15 +586,15 @@ a:hover, a:active{
     nav#mainNav ul li.current-menu-item li:last-child a:hover,
     nav#mainNav ul li li li a:hover{
 
-        background:#ff7700;
+        background:rgb(75,104,195);
         color:#ffffff;
     }
     nav#mainNav ul li.current-menu-item li li a:hover{
-        background:#ff7700;
+        background:rgb(75,104,195);
         color:#ffffff;
     }
     nav#mainNav ul li.current-menu-ancestor li.current-menu-item a{
-        background:#ff7700;
+        background:rgb(75,104,195);
         color:#ffffff;}
 
 }
@@ -671,7 +671,7 @@ h1.title{
     text-shadow: none;
 
 
-    border-bottom: 3px solid #ff7700;
+    border-bottom: 3px solid rgb(75,104,195);
 
 
 }
@@ -706,7 +706,7 @@ section.widget h2{
     text-shadow: none;
 
 
-    border-bottom: 3px solid #e2b575;
+    border-bottom: 3px solid rgb(75,104,195);
 
 
 }
@@ -738,12 +738,12 @@ h2.title, .post h2, .post2b h2, .post4b h2{
     color:#ffffff;
 }
 h1.title{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
-    background:-webkit-linear-gradient(#e2b575, #ff7700);
-    background:-moz-linear-gradient(#e2b575,#ff7700);
-    background:-o-linear-gradient(#e2b575, #ff7700);
-    background:-ms-linear-gradient(#e2b575, #ff7700);
-    background:linear-gradient(#e2b575,#ff7700);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00,rgb(75,104,195)));
+    background:-webkit-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-moz-linear-gradient(#4263DD,rgb(75,104,195));
+    background:-o-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-ms-linear-gradient(#4263DD, rgb(75,104,195));
+    background:linear-gradient(#4263DD,rgb(75,104,195));
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -753,12 +753,12 @@ h1.title span{
     padding-left:15px;
 }
 .post h1{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
-    background:-webkit-linear-gradient(#e2b575, #ff7700);
-    background:-moz-linear-gradient(#e2b575, #ff7700);
-    background:-o-linear-gradient(#e2b575, #ff7700);
-    background:-ms-linear-gradient(#e2b575, #ff7700);
-    background:linear-gradient(#e2b575, #ff7700);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, rgb(75,104,195)));
+    background:-webkit-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-moz-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-o-linear-gradient(#4263DD,rgb(75,104,195));
+    background:-ms-linear-gradient(#4263DD, rgb(75,104,195));
+    background:linear-gradient(#4263DD, rgb(75,104,195));
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -768,12 +768,12 @@ h1.title span{
     padding-left:15px;
 }
 section.widget h2{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
-    background:-webkit-linear-gradient(#e2b575, #ff7700);
-    background:-moz-linear-gradient(#e2b575, #ff7700);
-    background:-o-linear-gradient(#e2b575, #ff7700);
-    background:-ms-linear-gradient(#e2b575, #ff7700);
-    background:linear-gradient(#e2b575, #ff7700);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00,rgb(75,104,195)));
+    background:-webkit-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-moz-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-o-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-ms-linear-gradient(#4263DD, rgb(75,104,195));
+    background:linear-gradient(#4263DD, rgb(75,104,195));
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -783,12 +783,12 @@ section.widget h2 span{
     padding-left:15px;
 }
 .newsTitle{
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #e2b575), color-stop(1.00, #ff7700));
-    background:-webkit-linear-gradient(#e2b575, #ff7700);
-    background:-moz-linear-gradient(#e2b575, #ff7700);
-    background:-o-linear-gradient(#e2b575, #ff7700);
-    background:-ms-linear-gradient(#e2b575, #ff7700);
-    background:linear-gradient(#e2b575, #ff7700);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.00, #4263DD), color-stop(1.00, rgb(75,104,195)));
+    background:-webkit-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-moz-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-o-linear-gradient(#4263DD, rgb(75,104,195));
+    background:-ms-linear-gradient(#4263DD, rgb(75,104,195));
+    background:linear-gradient(#4263DD, rgb(75,104,195));
 
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -907,7 +907,7 @@ section.widget li {
     border-bottom: 1px dotted #ffffff;}
 
 #footer{
-    background:#e2b575;
+    background:rgb(75,104,195);
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -923,7 +923,7 @@ section.widget li {
     background-color: red;
 }
 #header {
-    background:#ff7700;
+    background:rgb(75,104,195);
 }
 .index{
     width: 100% !important;
