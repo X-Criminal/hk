@@ -608,10 +608,10 @@ a:hover, a:active{
 
     }
     nav#mainNav a.menu {
-        background:  no-repeat 1em 10px,#e2b575;
+        background:  no-repeat 1em 10px,rgb(75,104,195);
         color:#ffffff;border:1px solid #ffffff;}
     nav#mainNav a.menuOpen {
-        background:  no-repeat 1em 10px,#e2b575;
+        background:  no-repeat 1em 10px,rgb(75,104,195);
         color:#ffffff;
     }
 
@@ -622,7 +622,7 @@ a:hover, a:active{
 
     nav#mainNav ul li.current-menu-item a,
     nav#mainNav ul li a:hover{
-        background:#e2b575;
+        background:rgb(75,104,195);
         color:#ffffff;
     }
     nav#mainNav ul li li.current-menu-item a,
